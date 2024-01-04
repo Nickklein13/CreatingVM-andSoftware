@@ -50,22 +50,22 @@ This project not only intends to show the user how to access a created VM, but h
 
 
 <p>
-3.)  When inserting information for the VM, you'll want to select information based on what you're using the project for and whats needed. In this case this we don't need anything crazy, I've posted below what I chose and you can copy exactly to finish this project.  
+3.)  When inserting information for the VM, you'll want to select information based on what you're using the VM for and what's needed. In this case, we don't need anything crazy, I've posted below what I chose and you can copy it exactly to finish this project.  
 The important parts you need to keep in mind are;
 
-a.) Selecting your previously made Resource Group ast he RG for this VM
+a.) Selecting your previously made Resource Group as the RG for this VM
 	
 
-  b.) Pay specific attention to your reigon selected.
+  b.) Pay specific attention to your region selected.
 	
 
-  c.) Enable a "size" you feel is appropriate for whats needed.
+  c.) Enable a "size" you feel is appropriate for what's needed.
 	
 
   d.) Create and JOT DOWN the username and password for the VM. 
 
 
-Confirm the liscensing agreement, and you shouldn't specifically have to get too advanced so just go ahead and review + create, and once validation has passed, hit create again.
+Confirm the licensing agreement, and you shouldn't specifically have to get too advanced so just go ahead and review + create, and once validation has passed, hit create again.
 
 
 <br />
@@ -85,7 +85,7 @@ At this point, feel free to take a short break. Deploying a VM could take 2+ min
 
 
 <p>
-Now on our computer we're going to want to go to Start > Remote Desktop connection which will bring you to a window like below. Insert the public IP of your VM, login using your credentials, if there's a prompt about certificate / security say "Yes", and you should be prompted top sign into your VM as it boots up!
+Now on our computer, we're going to want to go to Start > Remote Desktop connection which will bring you to a window like below. Insert the public IP of your VM, login using your credentials, if there's a prompt about certificate/security say "Yes", and you should be prompted to sign into your VM as it boots up!
 </p>
 <br />
 
@@ -104,9 +104,9 @@ Now on our computer we're going to want to go to Start > Remote Desktop connecti
 <p>
 5.) Next we'll use Ninite.com to do a quick install of some programs we want. Ninite.com is a very useful website, it helps bypass alot of prompts and download programs in one large heap, and as you're about to see there's everything from discord, steam, java, python, malwarebytes, google drive, etc. 
 
-Open edge, naviate to Ninite.com and select the programs you want to download.
+Open Microsoft Edge, navigate to Ninite.com and select the programs you want to download.
 
-For this project we'll download discord, teamviewer, steam, Opera, chrome and malwarebytes. Then we'll want scroll down, click "Get your ninite" which will simply start the download process, then you can just sit back and let the downloader do its work.
+For this project we'll download discord, teamviewer, steam, Opera, chrome and malwarebytes. Then we'll want to scroll down, click "Get your ninite" which will simply start the download process, then you can just sit back and let the downloader do its work.
  
 
 
@@ -119,7 +119,7 @@ For this project we'll download discord, teamviewer, steam, Opera, chrome and ma
 
 
 <p>
-Once done, we'll see these programs have now be succesfully downloaded to the VM, and we are good to move forward!
+Once done, we'll see these programs have now be successfully downloaded to the VM, and we are good to move forward!
 </p>
 <br />
 
@@ -130,7 +130,7 @@ Once done, we'll see these programs have now be succesfully downloaded to the VM
  Once complete, we now have our VM setup with the software we had set out to download
 With that said, this project is now completed with everything it set out to do. We can close the VM, and delete the Resource Group and VM on Azure.
 
-After doing this project, users should now have a much better grasp on how to launch a VM via Azure for whatever purposes they'll need it for, and they'll have a better understanding on how to use a website like ninite to help quick softward downloads to help save time.
+After doing this project, users should now have a much better grasp on how to launch a VM via Azure for whatever purposes they'll need it for, and they'll have a better understanding on how to use a website like ninite to help quick software downloads to help save time.
 
 </p>
 <br />
